@@ -55,7 +55,7 @@ This Unity project demonstrates a small interactive game built using Unity's **N
 - Input System package (Install via Package Manager)
 
 ### How to Play
-1. Clone or download this repository. YOu might need to reinstall or download some assets. cause i don't know the rights for most of these assets.
+1. Clone or download this repository. YOu might need to reinstall or download some assets (notably sounds). cause i don't know the rights for most of these assets.
 2. Open the project in Unity.
 3. Press Play in the Unity Editor.
 4. Use WASD / arrow keys + Space to control the player.
