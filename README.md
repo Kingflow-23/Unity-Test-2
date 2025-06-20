@@ -65,6 +65,10 @@ This Unity project demonstrates a small interactive game built using Unity's **N
 
 ## Demo
 
+https://github.com/user-attachments/assets/f580879b-3107-4110-9609-d814ad0d3d14
+
+https://github.com/user-attachments/assets/a84926bf-0e22-4eaa-a86d-5ea8b783146a
+
 --- 
 
 ## 📌 Notes
